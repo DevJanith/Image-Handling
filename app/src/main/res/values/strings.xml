@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Additional Tutorial - Image Handling</string>
+    <string name="capture_image">capture_btn</string>
+</resources>
